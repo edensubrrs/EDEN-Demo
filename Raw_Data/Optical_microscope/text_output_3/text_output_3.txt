@@ -1,0 +1,9 @@
+The optical microscope, also referred to as a light microscope, is a type of microscope that commonly uses visible light and a system of lenses to generate magnified images of small objects.
+Optical microscopes are the oldest design of microscope and were possibly invented in their present compound form in the 17th century.
+Their invention enabled us to produce numerous types of microscopes which are current of science.
+The most important application of optical microscope is to study the shapes of dust particles present in a thin layer of oil.
+To understand the shapes of such particles, let us take a look at the principal features of an optical microscope.
+The lens is a fixed tube that has a glass core through which light travrons can be allowed to pass.
+The core is filled with chemically inactive nitrogen or argon gas which prolongs the life of the particles.
+The thin tube iscoiled with two mirroring mirrors that control the focal length of the lens.
+The two mirrors are fixed at an angle of 45 degrees with the sides of the tube in such a way that the position of the dust particles isi
