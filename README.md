@@ -55,13 +55,13 @@ conda env create -f Eden_env_2.yml
 5. Download the required weights for the models and other pertinent folders from the following URLs:
 
 ```
-## TagRec Weights - downloads _model_weights.zip_
+## TagRec Weights - downloads model_weights.zip
 https://drive.google.com/drive/folders/15ODGLe7Lhg9ZmQa-Gt53J9KQ6eZTXz_o?usp=sharing
 
-## Text Generation Weights - downloads _text_gen.zip_
+## Text Generation Weights - downloads text_gen.zip
 https://drive.google.com/file/d/1kKinIFYJOtWKGeQiWQX3-oibIXzRzelu/view?usp=sharing
 
-## Image Generation Weights - downloads _image_gen.zip_
+## Image Generation Weights - downloads image_gen.zip
 https://drive.google.com/file/d/1e1isTRiOsxYGlEPtMxoHR0dM49Pc2ILR/view?usp=sharing
 ```
 
@@ -105,7 +105,7 @@ If the video/s for that topic is already present in the database it will print t
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-13-32.png)
 
-If not, than text and image generation will be performed.
+If the video is not present in the database, then text and image generation will be performed.
 
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-20-38.png)
@@ -123,7 +123,7 @@ Output:
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-22-39.png)
 
-4. Finally, deactivate the current environment, reactivate the 'eden_env_1' environment, come back to **EDEN-Demo** (root folder) and run the following commands :
+4. Finally, deactivate the current environment, reactivate the 'eden_env_1' environment, come back to **EDEN-Demo** (root folder) by running the following commands :
 
 ```
 conda deactivate
