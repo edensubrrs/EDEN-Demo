@@ -76,7 +76,7 @@ Here is how to use the application:
 
 ```
 conda activate eden_pre_env
-cd "EDEN-Demo/models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui"
+cd "models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui"
 uvicorn app.main:app --port 8081
 ```
 
@@ -96,7 +96,7 @@ Enter the Topic for which the user wants to generate the video.
 ```
 conda deactivate
 conda activate eden_env_2
-cd "EDEN-Demo/PriorGrad-acoustic/"
+cd "PriorGrad-acoustic/"
 ./run.sh
 ```
 
@@ -105,7 +105,7 @@ cd "EDEN-Demo/PriorGrad-acoustic/"
 ```
 conda deactivate
 conda activate eden_env_1
-cd "EDEN-Demo/Video Generate"
+cd "Video Generate"
 python video_pipe.py
 ```
 
