@@ -28,13 +28,19 @@ To set up the project on your local machine, follow these steps:
 git clone https://github.com/edensubrrs/EDEN-Demo.git
 ```
 
-2. Navigate to the project directory
+3. Install Rust-Compiler for Tagerec
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+3. Navigate to the project directory
 
 ```
 cd EDEN-Demo
 ```
 
-3. Create Conda environments using the provided `.yml` files:
+4. Create Conda environments using the provided `.yml` files:
 
 ```
 cd envs/
@@ -43,7 +49,7 @@ conda env create -f Eden_env_1.yml
 conda env create -f Eden_env_2.yml
 ```
 
-4. Download the required weights for the models and other pertinent folders from the following URLs:
+5. Download the required weights for the models and other pertinent folders from the following URLs:
 
 ```
 ## TagRec Weights
@@ -56,13 +62,14 @@ https://drive.google.com/file/d/1kKinIFYJOtWKGeQiWQX3-oibIXzRzelu/view?usp=shari
 https://drive.google.com/file/d/1e1isTRiOsxYGlEPtMxoHR0dM49Pc2ILR/view?usp=sharing
 ```
 
-5. Download the Videos Database from the following path and unzip it in **EDEN-Demo** (root folder):
+6. Download the Videos Database from the following path and unzip it in **EDEN-Demo** (root folder):
 
 ```
 https://drive.google.com/file/d/1whNe31ngerFTD_sbcofhzPY7K1H4b4fh/view?usp=sharing
 ```
-6. Unzip the _text_gen.zip_ and _image_gen.zip_ inside the **EDEN-Demo/model** folder.
-7. Copy the tagrec weights _model_weights.zip_ to 
+7. Unzip the _text_gen.zip_ and _image_gen.zip_ inside the **EDEN-Demo/model** folder.
+
+8. Copy the tagrec weights _model_weights.zip_ to 
 
 ```
 EDEN-Demo/models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui/app/api/modle/
