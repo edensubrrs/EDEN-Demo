@@ -55,13 +55,13 @@ conda env create -f Eden_env_2.yml
 5. Download the required weights for the models and other pertinent folders from the following URLs:
 
 ```
-## TagRec Weights
+## TagRec Weights - downloads _model_weights.zip_
 https://drive.google.com/drive/folders/15ODGLe7Lhg9ZmQa-Gt53J9KQ6eZTXz_o?usp=sharing
 
-## Text Generation Weights
+## Text Generation Weights - downloads _text_gen.zip_
 https://drive.google.com/file/d/1kKinIFYJOtWKGeQiWQX3-oibIXzRzelu/view?usp=sharing
 
-## Image Generation Weights
+## Image Generation Weights - downloads _image_gen.zip_
 https://drive.google.com/file/d/1e1isTRiOsxYGlEPtMxoHR0dM49Pc2ILR/view?usp=sharing
 ```
 
