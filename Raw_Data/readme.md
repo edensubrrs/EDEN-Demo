@@ -22,7 +22,7 @@ Multiple subfolders, each named as "text_output", contain the following:
 - `Audio`: A subfolder containing audio files related to the academic concept, spoken versions of the transcripts or other relevant content.
 
 Each "text_output" subfolder offers a comprehensive multimedia package for a specific generated output, including the transcript, images, and audio.
-
+```
 Academic Concept (Root Folder)
 │
 │── taxonomy.txt
@@ -51,3 +51,4 @@ Academic Concept (Root Folder)
     │── Audio (Subfolder)
         │
         │── audio2.mp3
+```
