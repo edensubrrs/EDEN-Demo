@@ -82,7 +82,7 @@ EDEN-Demo/models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui/app/ap
 
 Here is how to use the application:
 
-1. Activate the `eden_pre_env` environment and run the `main.py` file in a separate terminal:
+1. Activate the `eden_pre_env` environment and run the fastapi app in a separate terminal:
 
 ```
 conda activate eden_pre_env
