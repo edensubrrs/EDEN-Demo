@@ -34,6 +34,8 @@ git clone https://github.com/edensubrrs/EDEN-Demo.git
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
+Restart the terminal
+
 3. Navigate to the project directory
 
 ```
