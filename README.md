@@ -119,6 +119,10 @@ cd "PriorGrad-acoustic/"
 ./run.sh
 ```
 
+Output:
+
+![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-22-39.png)
+
 4. Finally, deactivate the current environment, reactivate the 'eden_env_1' environment and run the following commands:
 
 ```
@@ -128,6 +132,11 @@ cd ..
 cd "Video Generate"
 python video_pipe.py
 ```
+
+Output:
+
+
+![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-23-56.png)
 
 Generated Video is saved in: 'EDEN-Demo/videos_db'
 Generated Text, Images and Audio is saved in: 'EDEN-Demo/Raw_Data'
