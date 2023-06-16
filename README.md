@@ -121,6 +121,7 @@ cd "PriorGrad-acoustic/"
 ```
 conda deactivate
 conda activate eden_env_1
+cd ..
 cd "Video Generate"
 python video_pipe.py
 ```
