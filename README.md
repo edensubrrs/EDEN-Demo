@@ -28,7 +28,7 @@ To set up the project on your local machine, follow these steps:
 git clone https://github.com/edensubrrs/EDEN-Demo.git
 ```
 
-3. Install Rust-Compiler for Tagerec
+2. Install Rust-Compiler for Tagerec
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -45,6 +45,7 @@ cd EDEN-Demo
 ```
 cd envs/
 conda env create -f Eden_pre_env.yml
+pip install transformers==2.8.0
 conda env create -f Eden_env_1.yml
 conda env create -f Eden_env_2.yml
 ```
