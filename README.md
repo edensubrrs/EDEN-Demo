@@ -90,7 +90,7 @@ cd "models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui"
 uvicorn app.main:app --port 8081
 ```
 
-Leave this terminal running and proceed to the next steps in a new terminal.
+ Leave this terminal running and proceed to the next steps in a new terminal.
 
 2. Activate the `eden_env_1` environment and run the `main.py` file in the root directory **EDEN-Demo** for text and image generation:
 
