@@ -1,4 +1,4 @@
-This folder stores the generated images, text and audio of the concept
+# This folder stores the generated images, text and audio of the concept
 
 ## Files and Folders Description
 
@@ -19,6 +19,36 @@ Multiple subfolders, each named as "text_output", contain the following:
 
 - `Image`: A subfolder housing images relevant to the generated transcript, visually representing aspects of the academic concept.
 
-- `Audio`: A subfolder containing audio files related to the academic concept, possibly spoken versions of the transcripts or other relevant content.
+- `Audio`: A subfolder containing audio files related to the academic concept, spoken versions of the transcripts or other relevant content.
 
 Each "text_output" subfolder offers a comprehensive multimedia package for a specific generated output, including the transcript, images, and audio.
+
+
+Academic Concept (Root Folder)
+│
+│── taxonomy.txt
+│── prompt.txt
+│
+│── text_output1 (Subfolder)
+│ │
+│ │── text_output1.txt
+│ │
+│ │── Image (Subfolder)
+│ │ │
+│ │ │── image1.jpg
+│ │
+│ │── Audio (Subfolder)
+│ │
+│ │── audio1.mp3
+│
+│── text_output2 (Subfolder)
+│
+│── text_output2.txt
+│
+│── Image (Subfolder)
+│ │
+│ │── image2.jpg
+│
+│── Audio (Subfolder)
+│
+│── audio2.mp3
