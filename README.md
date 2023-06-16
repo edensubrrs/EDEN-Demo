@@ -28,7 +28,7 @@ To set up the project on your local machine, follow these steps:
 git clone https://github.com/edensubrrs/EDEN-Demo.git
 ```
 
-2. Install Rust-Compiler for Tagerec
+2. Install Rust-Compiler
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -82,7 +82,7 @@ EDEN-Demo/models/TagRec_Plus_Plus_TKDE-main/taxonomy_predictor_api_and_ui/app/ap
 
 Here is how to use the application:
 
-1. Activate the `eden_pre_env` environment and run the `api.py` file in a separate terminal:
+1. Activate the `eden_pre_env` environment and run the `main.py` file in a separate terminal:
 
 ```
 conda activate eden_pre_env
@@ -92,7 +92,7 @@ uvicorn app.main:app --port 8081
 
 Leave this terminal running and proceed to the next steps in a new terminal.
 
-2. Activate the `eden_env_1` environment and run the `main.py` file in the root directory **EDEN-Demo**:
+2. Activate the `eden_env_1` environment and run the `main.py` file in the root directory **EDEN-Demo** for text and image generation:
 
 ```
 conda activate eden_env_1
@@ -110,7 +110,7 @@ If not, than text and image generation will be performed.
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-20-38.png)
 
-3. After the execution of the `main.py` file, deactivate the current environment, activate the `eden_env_2` environment:
+3. After the execution of the `main.py` file, deactivate the current environment, activate the `eden_env_2` environment and run the following commands for audio generation:
 
 ```
 conda deactivate
@@ -123,7 +123,7 @@ Output:
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-22-39.png)
 
-4. Finally, deactivate the current environment, reactivate the 'eden_env_1' environment and run the following commands:
+4. Finally, deactivate the current environment, reactivate the 'eden_env_1' environment, come back to **EDEN-Demo** (root folder) and run the following commands :
 
 ```
 conda deactivate
@@ -134,7 +134,6 @@ python video_pipe.py
 ```
 
 Output:
-
 
 ![Image](https://github.com/edensubrrs/EDEN-Demo/blob/main/readme_files/Screenshot%20from%202023-06-16%2017-23-56.png)
 
@@ -193,7 +192,7 @@ The released dataset folder can be found here:
 ```
 https://drive.google.com/drive/folders/1dxeFfsZRUldMrCrU7lmb0pAgMEWkag3K?usp=sharing
 ```
-# Citations
+# References
 
 This project utilizes work from the following repositories:
 
