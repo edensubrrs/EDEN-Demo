@@ -10,7 +10,7 @@ This system has been tested on :
 ```
 Ubuntu: 22.04.2 LTS
 CPU: Intel i9-12900K
-GPU: Nvidia RTX 3060
+GPU: Nvidia RTX 3060 12 GB
 ```
 All other requirements are present in Installation and Setup section
 
