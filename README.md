@@ -91,6 +91,12 @@ python main.py
 
 Enter the Topic for which the user wants to generate the video.
 
+If the video/s for that topic is already present in the database it will print the path of all those videos. (As shown in the image below)
+
+```
+IMAGE
+```
+
 3. After the execution of the `main.py` file, deactivate the current environment, activate the `eden_env_2` environment:
 
 ```
