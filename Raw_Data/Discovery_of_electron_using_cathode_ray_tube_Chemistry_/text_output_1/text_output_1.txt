@@ -1,0 +1,10 @@
+A cathode-ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams that are manipulated to display images on a phosphorescent screen.
+The images may represent electrical waveforms (oscilloscope), pictures (television set, computer monitor), radar targets, or other phenomena.
+The plasma membrane of cathode-ray TR is coated with a phosphor, thereby making it easier to see the image of the molecules inside the tube.
+A special TR coating is applied to enhance the contrast of the cathode-rayls.
+The coated electrode surface is coated with a phosphor, such that the inside diameter is less than the outer most layer.
+A water-filled plastic tube is placed between the two electrodes, one along the length of the tube and another along its diameter.
+The electrodes are connected to a power source.
+The tube behind the power source is coated with a phosphor, such that the inside diameter of the tube is less than its outer most layer.
+Two high-tension batteries are connected between the two cathodes-rayls.
+The

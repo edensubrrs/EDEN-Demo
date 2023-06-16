@@ -1,0 +1,11 @@
+A cathode-ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams that are manipulated to display images on a phosphorescent screen.
+The images may represent electrical waveforms (oscilloscope), pictures (television set, computer monitor), radar targets, or other phenomena.
+For constructing a cathode-ray tube, the components required are a high-tension battery, a hydrogen electrode, a thin carbon dioxide glass tube, a phosphor, an electric bulb and a steel nail.
+Take two test tubes.
+Fill each test tube with half of water.
+Dip the metal nail into the water filled in the orange colored water, that is about 1.5 cm in diameter.
+Insert a test tube into the filled test tube.
+Note the reading of the emitter and the reading of the angle at which the beam of electrons crossing the water glass tube is formed.
+finalitutization of the image on the screen.
+Using the principle of electromagnetic induction, extend the cathode rays through the hole in the cardboard.
+bol
