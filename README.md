@@ -278,5 +278,3 @@ This project utilizes work from the following repositories:
 6. **MoviePy**
 
    Repository: [https://github.com/Zulko/moviepy](https://github.com/Zulko/moviepy)
-
-It's essential to acknowledge and respect the work of others when we benefit from it. Thank you to the authors of these repositories for their significant contributions.
